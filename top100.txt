@@ -1,0 +1,12 @@
+BBC bbc.mobile.news.ww
+ESPN SportsCenter Web applications
+Twitter Download app
+Last.fm Web applications
+Chess game Game
+Physics2d Imaging tools (augmented reality)
+Bolso Xadrez, Jogo de Xadrez Game
+Virus scan Antivirus applications
+Adobe photoshop express Imaging tools (editor)
+Google gesture search Standalone utility
+Visidon applock Imaging tools (face recognition)
+MyExpenses Standalone utility
